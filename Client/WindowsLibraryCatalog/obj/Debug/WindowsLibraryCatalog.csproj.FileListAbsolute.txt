@@ -1,0 +1,32 @@
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsLibraryCatalog.csproj.AssemblyReference.cache
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsLibraryCatalog.csproj.SuggestedBindingRedirects.cache
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_EditBook.resources
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsLibraryCatalog.csproj.GenerateResource.cache
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsLibraryCatalog.csproj.CoreCompileInputs.cache
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsLibraryCatalog.csproj.CopyComplete
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ziken_abo6\Desktop\TZ Intertech\Client\TEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ziken_abo6\Desktop\TZ Intertech\ТЗ Library Catalog\Client\WindowsLibraryCatalog\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ziken_abo6\Desktop\TZ Intertech\ТЗ Library Catalog\Client\WindowsLibraryCatalog\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ziken_abo6\Desktop\TZ Intertech\ТЗ Library Catalog\Client\WindowsLibraryCatalog\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ziken_abo6\Desktop\TZ Intertech\ТЗ Library Catalog\Client\WindowsLibraryCatalog\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ziken_abo6\Desktop\TZ Intertech\ТЗ Library Catalog\Client\WindowsLibraryCatalog\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ziken_abo6\Desktop\TZ Intertech\ТЗ Library Catalog\Client\WindowsLibraryCatalog\obj\Debug\WindowsLibraryCatalog.csproj.AssemblyReference.cache
+C:\Users\ziken_abo6\Desktop\TZ Intertech\ТЗ Library Catalog\Client\WindowsLibraryCatalog\obj\Debug\WindowsLibraryCatalog.csproj.SuggestedBindingRedirects.cache
+C:\Users\ziken_abo6\Desktop\TZ Intertech\ТЗ Library Catalog\Client\WindowsLibraryCatalog\obj\Debug\WindowsFormsApp1.Form_EditBook.resources
+C:\Users\ziken_abo6\Desktop\TZ Intertech\ТЗ Library Catalog\Client\WindowsLibraryCatalog\obj\Debug\WindowsFormsApp1.FormMain.resources
+C:\Users\ziken_abo6\Desktop\TZ Intertech\ТЗ Library Catalog\Client\WindowsLibraryCatalog\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ziken_abo6\Desktop\TZ Intertech\ТЗ Library Catalog\Client\WindowsLibraryCatalog\obj\Debug\WindowsLibraryCatalog.csproj.GenerateResource.cache
+C:\Users\ziken_abo6\Desktop\TZ Intertech\ТЗ Library Catalog\Client\WindowsLibraryCatalog\obj\Debug\WindowsLibraryCatalog.csproj.CoreCompileInputs.cache
+C:\Users\ziken_abo6\Desktop\TZ Intertech\ТЗ Library Catalog\Client\WindowsLibraryCatalog\obj\Debug\WindowsLibraryCatalog.csproj.CopyComplete
+C:\Users\ziken_abo6\Desktop\TZ Intertech\ТЗ Library Catalog\Client\WindowsLibraryCatalog\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ziken_abo6\Desktop\TZ Intertech\ТЗ Library Catalog\Client\WindowsLibraryCatalog\obj\Debug\WindowsFormsApp1.pdb
